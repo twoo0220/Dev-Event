@@ -1221,6 +1221,33 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "twoo0220",
+      "name": "크썸",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47514338?v=4",
+      "profile": "https://molonlabe.tistory.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "choo121600",
+      "name": "Yeonguk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54111883?v=4",
+      "profile": "https://velog.io/@choo121600",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "minjj0905",
+      "name": "KIM MIN JEONG",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55120738?v=4",
+      "profile": "https://github.com/minjj0905",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
