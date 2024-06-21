@@ -1248,6 +1248,42 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "pcsoyeon",
+      "name": "소연",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59593430?v=4",
+      "profile": "https://github.com/pcsoyeon",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "SeokhunEom",
+      "name": "SeokHun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63833290?v=4",
+      "profile": "https://seokhun.dev",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "YongGoose",
+      "name": "Yongjun Hong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104314593?v=4",
+      "profile": "https://solution-is-here.tistory.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "morningB",
+      "name": "Joowon_Yun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114423035?v=4",
+      "profile": "https://github.com/morningB",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
