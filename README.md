@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-142-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-176-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -14,30 +14,287 @@
 <br />
 <br />
 
-<!-- 
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.bravepeople.devevent.android.app">
-    <img src="./static/display_banner/event.png?raw=true" width="84%">
-  </a>
-</p>
--->
-
 <p align="center">
     <a href="https://dev-event.vercel.app/events">
-      <img src="./static/display_banner/web.png?raw=true" width="21%" />
+      <img src="https://github.com/brave-people/dev-event/blob/master/static/display_banner/web.png?raw=true" width="15.5%" />
     </a>
     <a href="https://play.google.com/store/apps/details?id=com.bravepeople.devevent.android.app">
-      <img src="./static/display_banner/android.png?raw=true" width="21%" />
+      <img src="https://github.com/brave-people/Dev-Event/blob/master/static/display_banner/android_v2.png?raw=true" width="15.5%" />
+    </a>
+        <a href="https://apps.apple.com/kr/app/%EB%8D%B0%EB%B8%8C%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%96%89%EC%82%AC-%EC%A0%95%EB%B3%B4/id6502765233">
+      <img src="https://github.com/brave-people/Dev-Event/blob/master/static/display_banner/iOS.png?raw=true" width="15.5%" />
+    </a>
+    <a href="https://www.instagram.com/dev.event.official/">
+      <img src="https://github.com/brave-people/Dev-Event/blob/master/static/display_banner/instagram.png?raw=true" width="15.5%" />
     </a>
     <a href="https://github.com/brave-people/Dev-Event-Subscribe">
-      <img src="./static/display_banner/email.png?raw=true" width="21%" />
+      <img src="https://github.com/brave-people/dev-event/blob/master/static/display_banner/email.png?raw=true" width="15.5%" />
     </a>
     <a href="https://github.com/brave-people/Dev-Event#contributors-">
-      <img src="./static/display_banner/contributors.png?raw=true" width="21%" />
+      <img src="https://github.com/brave-people/dev-event/blob/master/static/display_banner/contributors.png?raw=true" width="15.5%" />
     </a>
 </p>
 
 > 배너 클릭시 연관 링크로 이동합니다.
+
+<hr />
+<br />
+
+
+<!-- 
+## 시선집중 👀
+
+<a href="https://www.sdc-korea.com/?refer=github_dev_event">
+  <img src="https://github.com/brave-people/dev-event/blob/master/static/focus_banner/241101_samsung.jpg?raw=true">
+</a>
+
+> 클릭시 행사로 이동합니다.
+
+<br /> 
+-->
+
+<!-- 
+## 다시보기 🎥
+<a href="https://www.youtube.com/watch?v=K38z-1kqhSc&list=PLwe9WEhzDhwE7VWdGVegvJJ_AgUIHcndy">
+  <img src="https://github.com/brave-people/dev-event/blob/master/static/focus_banner/241111_ifkakao2024.jpg?raw=true">
+</a>
+
+> 클릭시 다시보기 링크로 이동합니다.
+
+<hr />
+-->
+
+<br />
+
+## 25년 07월
+- __[WWDC25의 중대 발표 내용 알아보기](https://developer.apple.com/events/view/TCSPG9PN8Y/dashboard)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최 : APPLE
+  - 신청 : 06. 19(목) ~ 07. 11(금)
+
+- __[2025년도 하반기 알고리즘 특강](https://docs.google.com/forms/d/e/1FAIpQLSfzelHO4xz9CdbiBzK6_I7EZm5uEe-5JQkx7ZqGK8pVrIjTbQ/viewform)__
+  - 분류: `오프라인(서울 잠실)`, `무료`, `기술일반`
+  - 주최 : 삼성SDS
+  - 신청 : 07. 03(목) ~ 07. 11(금)
+- __[[저자 개발 특강] 내 마음대로 특강](https://onoffmix.com/event/326573)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최 : 이창현
+  - 일시 : 07. 07(월) ~ 07. 11(금)
+- __[커서AI 부트캠프 - 실무중심 바이브코딩](https://inf.run/fWZXc)__
+  - 분류: `오프라인(서울 강동구)`, `무료`, `AI`
+  - 주최: SeSAC
+  - 접수: 06. 09(월) ~ 07. 13(일)
+- __[2025 스마트농업 AI 경진대회 설명회](https://www.allforyoung.com/posts/67645)__
+  - 분류: `온라인`, `무료`, `AI`, `대회`
+  - 주최: 농림축산식품부
+  - 접수: 07. 09(수) ~ 07. 13(일)
+- __[TOSS MAKERS CONFERENCE 25](https://toss.im/tmc-25)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: 토스
+  - 접수: 07. 03(목) ~ 07. 13(일)
+- __[AWSKRUG #magok 마곡 소모임 아홉 번째 모임](https://www.meetup.com/awskrug/events/308767300/)__
+  - 분류: `오프라인(경기 마곡)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 07. 01(화) ~ 07. 14(월)
+- __[제3회 전문가네트워킹(온디바이스 AI 기술개발 동향 및 전망)](https://www.meetup.com/awskrug/events/308767300/)__
+  - 분류: `오프라인(서울 공덕)`, `무료`, `AI`
+  - 주최: ICT콤플렉스
+  - 접수: 07. 07(수) ~ 07. 14(월)
+- __[하이톤(Highthon)](https://www.instagram.com/high_thon/)__
+  - 분류: `오프라인(엘리스랩 성수)`, `무료`, `대회`
+  - 주최: 소프트웨어마이스터고교 연합 운영진(대덕, 대구, 미림)
+  - 접수: 07. 01(화) ~ 07. 15(화)
+- __[「창업 해커톤:  당신의 열정이 혁신이 되는 48시간」개발자, 디자이너 참가 신청](https://okky.kr/events/webinars/1537742)__
+  - 분류: `오프라인(서울대 시흥캠)`, `무료`, `대회`
+  - 주최: 대한약학대학학생협회
+  - 접수: 07. 09(수) ~ 07. 15(화) 18:00
+- __[비개발자를 위한 바이브코딩 세미나](https://okky.kr/events/webinars/1537742)__
+  - 분류: `온라인`, `유료`, `AI`
+  - 주최: OKKY
+  - 접수: 07. 07(화) ~ 07. 15(화)
+- __[2025 K-HTML 해커톤 모집](https://k-html-hackathon.webflow.io/)__
+  - 분류: `오프라인`, `무료`, `대회`
+  - 주최: 경희대학교
+  - 접수: 07. 02(수) ~ 07. 16(수)
+- __[Datarize 2nd Dev Meet-up](https://event-us.kr/datarize/event/107599)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `대회`
+  - 주최: (주)데이터라이즈
+  - 접수: 07. 10(목) ~ 07. 16(수)
+- __[kakao tech bootcamp](https://kakaotechbootcamp.com/)__
+  - 분류: `오프라인`, `무료`, `교육`, `AI`, `클라우드`
+  - 주최 : 카카오
+  - 신청 : 07. 03(목) ~ 07. 17(목)
+- __[취업&커리어 콘서트 3회: 파이썬 F였던 내가 개발자? - 카네기멜론대학교 로보틱스 연구원 서희찬님 편](https://event-us.kr/susc/event/107647)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: SUSC
+  - 접수: 07. 06(일) ~ 07. 18(금)
+- __[당신의 인생 수익을 퀀텀 점프시킬 AI 활용 꿀팁](http://daegu-koreaitlab.com/community/seminar_view.asp?seq=24&clkMater=&txtMenu=&GoTopage=1&selMater=&dbType=NEW)__
+  - 분류: `오프라인`, `온라인`, `무료`, `AI`
+  - 주최 : 코리아IT아카데미
+  - 신청 : 07. 01(화) ~ 07. 18(금)
+- __[U/THON 25 고등학생 해커톤](https://event.uslash.org/)__
+  - 분류: `오프라인`, `유료`, `대회`
+  - 주최 : 유슬래시
+  - 신청 : 06. 30(월) ~ 07. 18(금)
+- __[AWSKRUG 데이터 모임](https://www.meetup.com/awskrug/events/308647412)__
+  - 분류: `온라인`, `무료`, `데이터`
+  - 주최 : AWSKRUG
+  - 신청 : 06. 26(목) ~ 07. 16(수)
+- __[구글 스터디 잼 X 잇츠 스터디 - 크루원 모집](https://rsvp.withgoogle.com/events/2025-h2-google-cloud-ai-study-jam-kr/home)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 구글
+  - 접수: 07. 07(월) ~ 07. 21(월)
+- __[AWSKRUG #AIEngineering - 나만의 서버리스 GenAI 앱 구축하기](https://www.meetup.com/awskrug/events/308422293/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 07. 08(화) ~ 07. 22(화)
+- __[K-AI 커뮤니티 서밋 2025](https://onoffmix.com/event/325919)__
+  - 분류: `오프라인(서울 영등포)`, `무료`, `AI`
+  - 주최: K-AI 커뮤니티 서밋
+  - 접수: 07. 08(화) ~ 07. 22(화)
+- __[AWSKRUG 게임테크 #gametech 소모임](https://www.meetup.com/awskrug/events/308924545/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: AWSKRUG
+  - 접수: 07. 08(화) ~ 07. 23(수)
+- __[2025년 충청권 사이버보안 경진대회 참가자 모집](https://ccunictf.co.kr/)__
+  - 분류: `온라인`, `오프라인`, `무료`, `보안`
+  - 주최: 한국보건산업진흥원
+  - 접수: 06. 09(월) ~ 07. 23(수)
+- __[2025 사이버공격방어대회(Cyber Conflict Exercise 2025) 참가자 모집](https://cce.cstec.kr/)__
+  - 분류: `오프라인(서울 코엑스)`, `무료`, `보안`
+  - 주최: 국가정보원
+  - 접수: 06. 30(월) ~ 07. 24(목)
+- __[오픈소스 기여, 실전으로 배운다! – 공통컴포넌트 & 개발가이드 컨트리뷰션 세미나](https://okky.kr/articles/1538325)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 오픈플랫폼 개발자 커뮤니티
+  - 접수: 07. 10(목) ~ 07. 24(목)
+- __[DIVE 2025(제2회 글로벌 데이터 해커톤 대회)](https://www.dxchallenge.co.kr/about-1-1)__
+  - 분류: `오프라인(벡스코)`, `무료`, `대회`
+  - 주최: 부산광역시
+  - 접수: 07. 07(월) ~ 07. 24(목) 17:00
+- __[2025 Efficient AI Offline Meetup: AI 경량화 오프라인 밋업](https://event-us.kr/squeezebits/event/106831)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: 스퀴즈비츠
+  - 접수: 06. 26(목) ~ 07. 24(목)
+- __[C++ Korea 소모임](https://event-us.kr/cppkorea/event/107339)__
+  - 분류: `오프라인(서울 서초)`, `무료`, `기술일반`
+  - 주최: C++ Korea
+  - 접수: 07. 01(화) ~ 07. 25(금)
+- __[Microsoft Cloud & AI 부트캠프](https://www.microsoft.com/ko-kr/CloudandAIBootcamp/)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 마이크로소프트
+  - 접수: 07. 11(금) ~ 07. 21(월)
+- __[Google I/O Extended Incheon 2025](https://www.ticketa.co/events/7)__
+  - 분류: `오프라인(인하대)`, `무료`, `기술일반`
+  - 주최: GDG Incheon
+  - 접수: 07. 07(월) ~ 07. 26(토)
+- __[n8n 업무자동화부터 RAG까지 MCP 전문가의 트렌드 돌아보기!](https://event-us.kr/helpfastcampus/event/107945)__
+  - 분류: `오프라인(인하대)`, `무료`, `AI`
+  - 주최: 패스트캠퍼스
+  - 접수: 07. 09(수) ~ 07. 27(일)
+- __[포텐데이X네이버클라우드, 508 AI 포텐데이 FE 개발자 모집 중](https://bside.best/potenday)__
+  - 분류: `오프라인(인하대)`, `유료`, `대회`
+  - 주최: 비사이드
+  - 접수: 07. 07(월) ~ 07. 27(일)
+- __[AWSKRUG 서버리스 #Serverless Hands-on Lab](https://www.meetup.com/awskrug/events/308963371/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 07. 08(화) ~ 07. 28(월)
+- __[생성형 AI 입문기 : 기초에서 실전까지, 나만의 리터러시 성장기](https://www.egbiz.or.kr/sp/supportPrjDtl.do?listUrl=supportPrjCatList&bizCyclId=PD000000047640)__
+  - 분류: `오프라인(경기 성남)`, `무료`, `AI`
+  - 주최: 경기도경제과학진흥원
+  - 접수: 07. 01(화) ~ 07. 30(수)
+- __[개발도 영어로, 네트워킹도 영어로! 한국에서 만나는 글로벌 IT 커뮤니티](https://www.meetup.com/dev-korea/events/308860015/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `모임`
+  - 주최: Dev Korea
+  - 접수: 07. 11(금) ~ 07. 30(수)
+
+<br />
+
+## 25년 08월
+- __[[개발자 밋업] Oracle Dev Day!](https://onoffmix.com/event/326545)__
+  - 분류: `오프라인(서울 강동)`, `무료`, `기술일반`
+  - 주최: 한국 오라클
+  - 접수: 07. 07(월) ~ 08. 05(화)
+
+- __[2025 블레이버스 MVP 개발 해커톤: 시즌2](https://www.blaybus.com/activities/450/landing)__
+  - 분류: `오프라인(서울 강동)`, `무료`, `대회`
+  - 주최: 강동구 청년해냄센터
+  - 접수: 04. 01(화) ~ 08. 08(금)
+- __[UbuCon Korea 2025](https://event-us.kr/ubuntukr/event/101263)__
+  - 분류: `오프라인(서울)`, `유료`, `기술일반`
+  - 주최: 우분투한국커뮤니티
+  - 접수: 04. 01(화) ~ 08. 08(금)
+- __[[SUMMER CAMP] 무료 세미나에 초대장을 보냅니다.](http://koreaitsecurity.co.kr/landing/summer_camp.asp)__
+  - 분류: `오프라인(동국대)`, `무료`, `기술일반`
+  - 주최: KOREA IT ACADEMY
+  - 일시: 06. 04(수) ~ 08. 09(일)
+- __[아시아 개발자를 위한 Web3 부트캠프](https://www.protocolcamp.com/)__
+  - 분류: `오프라인)`, `무료`, `기술일반`
+  - 주최: SHARDLAB
+  - 접수: 07. 14(월) ~ 08. 15(금)
+- __[PyCon Korea 2025](https://2025.pycon.kr/)__
+  - 분류: `오프라인(동국대)`, `무료`, `기술일반`
+  - 주최: 파이콘
+  - 일시: 08. 15(금) ~ 08. 17(일)
+- __[Apache Airflow를 활용한 워크플로우 자동화 워크샵 in Busan](https://www.meetup.com/korea-apache-airflow-user-group/events/308773767)__
+  - 분류: `오프라인(부산)`, `무료`, `기술일반`
+  - 주최: Airflow 한국 사용자 모임
+  - 일시: 07. 03(목) ~ 08. 22(금)
+- __[FEConf 2025(프론트엔드 컨퍼런스)](https://2025.feconf.kr/)__
+  - 분류: `오프라인(세종대학교)`, `유료`, `프론트엔드`
+  - 주최: FEConf
+  - 일시: 08. 23(토) 12:50 ~ 17:40 
+- __[스크래퍼 개발자 모임 3회](https://event-us.kr/m/107196/37814)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: 스크래퍼 개발자 모임
+  - 접수: 06. 30(월) ~ 08. 25(월)
+
+<br />
+
+## 25년 09월
+- __[KWDC25](https://www.ticketa.co/events/12)__
+  - 분류: `오프라인(서울)`, `유료`, `ios`
+  - 주최: 
+  - 접수: 07. 10(목) ~ 09. 05(목)
+
+- __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
+  - 분류: `오프라인`, `무료`, `클라우드`
+  - 주최: AWS
+  - 일시: 09. 23(화) ~ 09. 25(목)
+
+<br />
+
+## 25년 10월
+- __[2025 제 8회 핀테크 아이디어 공모전](https://fintech.or.kr/web/expo/idea.do?menu_id=10300)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 금융위원회
+  - 접수: 08. 04(월) ~ 10. 14(화)
+
+- __[개방형 클라우드 플랫폼(K-PaaS) 활용 공모전](https://contest.k-paas.org/)__
+  - 분류: `온라인`, `무료`, `클라우드`, `대회`
+  - 주최: K-PasaS
+  - 일시: 03. 24(월) ~ 10. 31(금)
+
+<br />
+
+## 25년 11월
+- __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
+  - 분류: `오프라인`, `무료`, `클라우드`
+  - 주최: AWS
+  - 일시: 11. 25(화) ~ 11. 27(목)
+
+<br />
+
+## 25년 12월
+- __[네이버클라우드 Nclouder 모집: 기술 콘텐츠 영향력을 넓히고 싶은 분을 찾습니다](https://blog.naver.com/n_cloudplatform/223811699537)__
+  - 분류: `온라인`, `무료`, `클라우드`
+  - 주최: 네이버 클라우드
+  - 접수: 03. 31(월) ~ 12. 31(수)
+
+<br />
+
+----------------
 
 <br />
 
@@ -51,7 +308,7 @@
             <!-- <th scope="col">-</th> -->
         <!-- </tr> -->
         <tr>
-            <td rowspan="5"> 이전 행사 모음 </td>
+            <td rowspan="6"> 이전 행사 모음 </td>
             <td>2020년</td>
             <td> 
               <a href="./end_event/2020/20_08.md"> 08월 </a>,
@@ -124,7 +381,26 @@
               <a href="./end_event/2024/24_03.md"> 03월 </a>,
               <a href="./end_event/2024/24_04.md"> 04월 </a>,
               <a href="./end_event/2024/24_05.md"> 05월 </a>,
-              <a href="./end_event/2024/24_06.md"> 06월 </a>
+              <a href="./end_event/2024/24_06.md"> 06월 </a>,
+              <a href="./end_event/2024/24_07.md"> 07월 </a>,
+              <a href="./end_event/2024/24_08.md"> 08월 </a>,
+              <a href="./end_event/2024/24_09.md"> 09월 </a>,
+              <a href="./end_event/2024/24_10.md"> 10월 </a>,
+              <a href="./end_event/2024/24_11.md"> 11월 </a>,
+              <a href="./end_event/2024/24_12.md"> 12월 </a>
+            </td>
+        </tr>
+          <tr>
+            <!-- <td> 종료 행사 </td> -->
+            <td>2025년</td>
+            <td>
+              <a href="./end_event/2025/25_01.md"> 01월 </a>,
+              <a href="./end_event/2025/25_02.md"> 02월 </a>,
+              <a href="./end_event/2025/25_03.md"> 03월 </a>,
+              <a href="./end_event/2025/25_04.md"> 04월 </a>,
+              <a href="./end_event/2025/25_05.md"> 05월 </a>,
+              <a href="./end_event/2025/25_06.md"> 06월 </a>,
+              <a href="./end_event/2025/25_07.md"> 07월 </a>
             </td>
         </tr>
         <tr>
@@ -134,291 +410,6 @@
           </td>
         </tr>
 </table>
-
-<br />
-
-## 24년 06월
-- __[멀티/분산 클라우드, 차세대 클라우드를 향한 도전과 기회](https://webinaro.co.kr/Event/287)__
-  - 분류: `오프라인 (서울 서초)`, `무료`, `클라우드`
-  - 주최: 클라우드 바리스타 커뮤니티
-  - 일시: 06. 24(월) 16:10 ~ 18:00
-
-- __[슈퍼우먼 컨퍼런스](https://lemon.mylight.co.kr/?utm_source=platform&utm_medium=github_dev_event&utm_campaign=womencon)__
-  - 분류: `오프라인(서울 성동구)`, `유료`, `기술일반`
-  - 주최: 레모네이드
-  - 접수: 05. 27(월) ~ 06. 22(토)
-- __[파이콘 한국 2024 CFP 발표자 2차 모집](https://docs.google.com/forms/d/e/1FAIpQLSdXXxakv9IZa_Se9DQzG3Kf8qc_ADIlyyTS5h7r20ENSfD6MA/viewform)__
-  - 분류: `오프라인(수원 컨벤션센터)`, `유료`, `파이썬`
-  - 주최: 파이콘 한국 준비위원회
-  - 접수: 06. 01(일) ~ 06. 22(일)
-- __[왓캐스트: 서류탈락 80%, '이것'때문에 떨어진다.](https://festa.io/events/5391)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: Whatever
-  - 접수: 06. 12(수 ) ~ 06. 23(일)
-- __[오픈소스 컨트리뷰션 아카데미 2024](https://www.contribution.ac/)__
-  - 분류: `온라인`, `오프라인`, `무료`, `대회`, `기술일반`
-  - 주최: 과학기술정보통신부
-  - 접수: 05. 24(금) ~ 06. 23(일)
-- __[GDSC Ewha 5th Demo Day](https://festa.io/events/5321)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: GDSC Ewha Womans University
-  - 접수: 06. 03(월) ~ 06. 23(일)
-- __[인포그랩 X GitLab 2024 GitLab 유저 컨퍼런스 - 실 유저로부터 듣는 사례 그리고 DevOps의 다양한 모습들](https://festa.io/events/5307)__
-  - 분류: `오프라인(서울 양재)`, `무료`, `인프라`
-  - 주최: InfoGrab X GitLabKorea
-  - 접수: 05. 27(월) ~ 06. 24(월)
-- __[노이즈메이커 오프라인 밋업](https://tally.so/r/mRzV9K)__
-  - 분류: `오프라인(부산 중구)`, `유료`, `모임`, `기술일반`
-  - 주최: 노이즈메이커
-  - 접수: 06. 10(월) ~ 06. 24(월)
-- __[AWSKRUG 자격증소모임 너도 될 수 있어 아키텍트!](https://www.meetup.com/awskrug/events/301433499/)__
-  - 분류: `오프라인`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 06. 17(월) ~ 06. 25(화)
-- __[AI 오디세이](https://festa.io/events/5244)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 해커그라운드
-  - 접수: 05. 13(월) ~ 06. 25(화)
-- __[2024 현대모비스 알고리즘 경진대회](https://career.programmers.co.kr/competitions/3980)__
-  - 분류: `온라인`, `무료`, `알고리즘`, `대회`
-  - 주최: 현대모비스
-  - 접수: 05. 29(수) ~ 06. 25(화)
-- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/301414701/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `보안`
-  - 주최: AWSKRUG
-  - 접수: 06. 12(수) ~ 06. 26(수)
-- __[한빛앤 MSA #2-8 데이터베이스 활용도 끌어올리기](https://festa.io/events/5332)__
-  - 분류: `오프라인(서울 서대문구)`, `유료`, `데이터`
-  - 주최: 한빛앤 MSA
-  - 접수: 06. 12(수) ~ 06. 26(수)
-- __[AWSKRUG DevOps 소모임](https://www.meetup.com/awskrug/events/301612957/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 06. 17(월) ~ 06. 26(수)
-- __[AWSKRUG 아키텍처 #architecture 48번째 소모임](https://www.meetup.com/awskrug/events/301554847/)__
-  - 분류: `오프라인(서울 을지로)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 06. 17(월) ~ 06. 26(수)
-- __[[토스 프론트엔드 멘토링] Frontend Accelerator 1기](https://form.naver.com/response/WFFh5JnUpkaRFItp3rU0iQ)__
-  - 분류: `온라인`, `무료`, `프론트엔드`
-  - 주최: 토스
-  - 접수: 06. 19(수) ~ 06. 26(수)
-- __[C++ Korea 2024 Meet-Up & Hands-On](https://festa.io/events/5296)__
-  - 분류: `오프라인(서울 중구)`, `유료`, `기술일반`
-  - 주최: C++ Korea
-  - 접수: 06. 21(금) ~ 06. 27(목)
-- __[[원티드X네이버클라우드] 생성형 AI 시대 직장인을 위한 프롬프톤](https://www.wanted.co.kr/events/2024_prompthon)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 원티드
-  - 접수: 06. 17(월) ~ 06. 26(수)
-- __[Google Cloud Summit Seoul ’24](https://cloudonair.withgoogle.com/events/summit-seoul-2024)__
-  - 분류: `온라인`, `무료`, `클라우드`
-  - 주최: 구글 클라우드
-  - 접수: 04. 22(월) ~ 06. 27(목)
-- __[카이스트 정글 9기 & 크래프톤 정글 7기 모집](https://www.wanted.co.kr/events/swjungle)__
-  - 분류: `온라인`, `무료`, `기술일반`, `교육`
-  - 주최: 원티드
-  - 접수: 05. 27(월) ~ 06. 27(목)
-- __[React 아키텍처: 쉽게 시작하기 | 프리온보딩 FE 챌린지 7월](https://www.wanted.co.kr/events/pre_challenge_fe_23)__
-  - 분류: `온라인`, `무료`, `프론트엔드`, `교육`
-  - 주최: 원티드
-  - 접수: 06. 12(수) ~ 06. 27(목)
-- __[프로젝트 유연함을 높이는 객체지향 첫걸음 | 프리온보딩 BE 챌린지 7월](https://www.wanted.co.kr/events/pre_challenge_be_21)__
-  - 분류: `온라인`, `무료`, `벡엔드`, `교육`
-  - 주최: 원티드
-  - 접수: 06. 12(수) ~ 06. 27(목)
-- __[AUSG 8th 모집](https://ausg.me/)__
-  - 분류: `오프라인 (서울 강남)`, `유료`, `클라우드`, `모임`
-  - 주최: AWSKRUG University Students Group
-  - 접수: 06. 14(금) ~ 06. 27(목)
-- __[iMac으로 코딩 첫 걸음](https://festa.io/events/5316)__
-  - 분류: `오프라인 (부산 해운대구)`, `무료`, `교육`
-  - 주최: 아이참 (iCharm)
-  - 접수: 05. 27(월) ~ 06. 28(금)
-- __[2024 채용 혹한기에서 살아남기](https://festa.io/events/5362)__
-  - 분류: `오프라인 (서울 강남)`, `유료`, `모임`
-  - 주최: GDG Korea WebTech
-  - 접수: 06. 07(금) ~ 06. 28(금)
-- __[KotlinConf'24 Global in South Korea](https://festa.io/events/5375)__
-  - 분류: `오프라인 (서울 강남)`, `무료`, `기술일반`
-  - 주최: KUG Seoul
-  - 접수: 06. 07(금) ~ 06. 28(금)
-- __[풀스택 개발자 과정](https://k-digital.goorm.io/b2g/kdt/fullstack)__
-  - 분류: `온라인`, `무료`, `프론트엔드`, `백엔드`
-  - 주최: 구름
-  - 접수: 06. 03.(월) ~ 06. 24.(월)
-- __[정보 보안 전문가 과정](https://k-digital.goorm.io/b2g/kdt/cybersecurity)__
-  - 분류: `온라인`, `무료`, `교육`, `보안`
-  - 주최: 구름
-  - 접수: 06. 03.(월) ~ 06. 24.(월)
-- __[클라우드 네이티브 엔지니어링 과정](https://k-digital.goorm.io/b2g/kdt/cloud-native)__
-  - 분류: `실시간 비대면`, `무료`, `교육`, `클라우드`
-  - 주최: 구름
-  - 접수: 06. 03.(월) ~ 06. 24.(월)
-- __[생성형 AI 응용 서비스 개발자 과정](https://k-digital.goorm.io/b2g/kdt/gen-ai)__
-  - 분류: `실시간 비대면`, `무료`, `교육`, `생성형 AI`
-  - 주최: 구름
-  - 접수: 06. 03.(월) ~ 06. 24.(월)
-- __[채용 불황에도 개발자 중고신입으로 취업하는 법](https://hanghae99.spartacodingclub.kr/webinar/mid-career-transition)__
-  - 분류: `온라인`, `무료`, `교육`
-  - 주최: 항해99
-  - 접수: 06. 21(금) ~ 06. 24(월)
-
-<br />
-
-## 24년 07월
-- __[AI 웹 서비스 스쿨 1기](https://www.wanted.co.kr/events/techit-kdt-aiw-1st)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 원티드
-  - 접수: 06. 05(수) ~ 07. 03(수)
-
-- __[Kafka와 Kafka Connect를 이용한 데이터 흐름 이해](https://docs.google.com/forms/d/e/1FAIpQLSecMOxDvlartQGaE3PVkxGaQ_acw3utwQQwjtb8cOtoI3OPjQ/viewform)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `벡엔드`
-  - 주최: GT Plus
-  - 접수: 06. 05(수) ~ 07. 03(수)
-- __[한빛앤 MSA #2-9 주니어 개발자를 위한 개발 일정 산출 노하우](https://festa.io/events/5395)__
-  - 분류: `오프라인(서울 서대문구)`, `유료`, `벡엔드`
-  - 주최: 한빛앤 MSA
-  - 접수: 06. 13(목) ~ 07. 03(수)
-- __[Cloud Gaming Day](https://form.naver.com/response/LY1COWgAr8_vuKm9cUcaHg)__
-  - 분류: `오프라인(서울 구로)`, `무료`, `클라우드`
-  - 주최: 네이버 클라우드 & 디딤365 & 씽킹데이터
-  - 접수: 06. 17(월) ~ 07. 03(수)
-- __[AI 웹 서비스 스쿨 1기](https://www.wanted.co.kr/events/techit-kdt-aiw-1st)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 멋쟁이사자처럼
-  - 접수: 06. 04(화) ~ 07. 01(월)
-- __[Regional Scrum Gathering Seoul 2024](https://scrum-korea.com/rsgseoul24/)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `기술일반`
-  - 주최: Scrum Korea
-  - 접수: 03. 20(수) ~ 07. 04(목)
-- __[2024년 공개SW 개발자대회](https://www.oss.kr/dev_competition)__
-  - 분류: `온라인`, `무료`, `대회`, `기술일반`
-  - 주최: 과학기술정보통신부
-  - 접수: 05. 29(수) ~ 07. 04(목)
-- __[Go To Jeju 2024](https://festa.io/events/5326)__
-  - 분류: `오프라인(제주)`, `유료`, `기술일반`
-  - 주최: Golang Korea
-  - 접수: 03. 20(수) ~ 07. 04(목)
-- __[제10회 대학생 프로그래밍 경진대회](https://bit.ly/4bZTYb2)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 삼성전자
-  - 접수: 06. 04(화) ~ 07. 04(목)
-- __[2024 3rd QA Korea Conference](https://festa.io/events/5301)__
-  - 분류: `온라인`, `유료`, `기술일반`
-  - 주최: QA Korea Conference
-  - 접수: 06. 03(월) ~ 07. 05(금)
-- __[2024 스마일게이트 AI 서비스 위클리톤](https://futurelab.center/front/program/program-view/754)__
-  - 분류: `오프라인`, `무료`, `AI`, `대회`
-  - 주최: FUTURE LAB
-  - 접수: 06. 11(화) ~ 07. 07(일)
-- __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/301414888)__
-  - 분류: `온라인`, `유료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 06. 03(월) ~ 07. 10(수)
-- __[제로베이스에서 유능한 QA로 성장하는 소프트웨어 테스트의 모든 것](https://event-us.kr/FKH3nHkjmPGh/event/86185)__
-  - 분류: `오프라인(서울 서대문구)`, `무료`, `기술일반`
-  - 주최: 한빛미디어
-  - 접수: 06. 20(목) ~ 07. 11(목)
-- __[2024 WASSUP42](https://festa.io/events/5373)__
-  - 분류: `온라인`, `유료`, `기술일반`, `모임`
-  - 주최: 2024 WASSUP42
-  - 접수: 06. 03(월) ~ 07. 12(금)
-- __[프로젝트 캠프 : Next.js 과정 2기](https://sniperfactory.com/course/project-camp-nextjs2)__
-  - 분류: `온라인`, `무료`, `교육`, `프론트엔드`
-  - 주최: 스나이퍼팩토리
-  - 접수: 06. 10(월) ~ 07. 07(일)
-- __[프론트엔드 개발자를 위한 풀스택 과정](https://camp.orm.im/js-full-stack)__
-  - 분류: `온라인`, `무료`, `프론트엔드`, `벡엔드`
-  - 주최: 모두의 연구소
-  - 접수: 06. 14(금) ~ 07. 12(금)
-- __[알고리즘 코드 챌린지](https://okky.kr/articles/1503884?topic=it&page=1)__
-  - 분류: `온라인`, `무료`, `알고리즘`, `대회`
-  - 주최: 엘리스
-  - 접수: 06. 10(월) ~ 07. 19(금)
-- __[프론트엔드 개발자 오르미 양성 과정 6기](https://inthiswork.com/archives/126614)__
-  - 분류: `온라인`, `무료`, `프론트엔드`
-  - 주최: 이스트소프트
-  - 접수: 06. 04(화) ~ 07. 22(월)
-- __[벡엔드 개발자 오르미 양성 과정 6기](https://inthiswork.com/archives/126609)__
-  - 분류: `온라인`, `무료`, `벡엔드`
-  - 주최: 이스트소프트
-  - 접수: 06. 04(화) ~ 07. 22(월)
-- __[2024 블록체인 경진대회 「BEST Challenge」](https://litt.ly/2024best)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 과학기술정보통신부
-  - 접수: 06. 14(금) ~ 07. 23(화)
-- __[[AI × 독서모임]인공지능 책 함께 읽어요!](https://festa.io/events/5317)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `AI`
-  - 주최: ArtByte
-  - 접수: 05. 27(월) ~ 07. 24(수)
-- __[프론트엔드 기반 프로덕트 디자이너 과정](https://k-digital.goorm.io/b2g/kdt/product-design)__
-  - 분류: `실시간 비대면`, `무료`, `교육`, `개발`, `UI/UX`
-  - 주최: 구름
-  - 접수: 06. 14.(금) ~ 07. 08.(월)
-- __[프로덕트 매니지먼트 과정](https://k-digital.goorm.io/b2g/kdt/product-management)__
-  - 분류: `실시간 비대면`, `무료`, `교육`, `기획자`
-  - 주최: 구름
-  - 접수: 06. 14.(금) ~ 07. 08.(월)
-- __[백엔드 개발자 과정](https://k-digital.goorm.io/b2g/kdt/backend)__
-  - 분류: `실시간 비대면`, `무료`, `교육`, `Spring`
-  - 주최: 구름
-  - 접수: 06. 14.(금) ~ 07. 08.(월)
-- __[프론트엔드 개발자 과정](https://k-digital.goorm.io/b2g/kdt/frontend)__
-  - 분류: `실시간 비대면`, `무료`, `교육`, `React`
-  - 주최: 구름
-  - 접수: 06. 14.(금) ~ 07. 08.(월)
-- __[해커그라운드 해커톤 2024](https://github.com/hackersground-kr/hackers-ground)__
-  - 분류: `오프라인(경북 의성)`, `무료`, `대회`
-  - 주최: 의성군
-  - 접수: 06. 19(수) ~ 07. 28(일)
-
-<br />
-
-## 24년 08월
-- __[인프콘 2024](https://www.inflearn.com/infcon-2024/teaser)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `기술일반`
-  - 주최: 인프런
-  - 일시: 08. 02(금)
-
-- __[DebConf24](https://debconf24.debconf.org/)__
-  - 분류: `오프라인(국립부경대학교 대연캠퍼스)`, `무료`, `기술일반`
-  - 주최: 데비안 프로젝트
-  - 일시: 07. 28(일) ~ 08. 04(일)
-- __[UbuCon Korea 2024](https://2024.ubuntu-kr.org/ko/)__
-  - 분류: `오프라인(서울 종로)`, `유료`, `기술일반`
-  - 주최: 우분투 한국커뮤니티
-  - 접수: 04. 17(수) ~ 08. 09(금)
-- __[Gemini API 개발자 대회](https://ai.google.dev/competition?hl=ko)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 구글
-  - 일시: 05. 17(금) ~ 08. 12(토)
-- __[FEConf 2024](https://2024.feconf.kr/)__
-  - 분류: `오프라인(서울 광진구)`, `유료`, `프론트엔드`
-  - 주최: FEConf
-  - 일시: 08. 24(토)
-
-<br />
-
-
-## 24년 10월
-- __[KWDC24](https://kwdc.dev/2024/)__
-  - 분류: `오프라인(서울 광진구)`, `유료`, `기술일반`
-  - 주최: APPLE
-  - 일시: 10. 25(금)
-
-- __[GopherCon Korea 2024](https://festa.io/events/5098)__
-  - 분류: `오프라인(서울)`, `유료`, `기술일반`
-  - 주최: Golang Korea
-  - 일시: 04. 01(월) ~ 10. 31(목)
-- __[제 8회 개방형 클라우드 플랫폼(K-PaaS) 기반 서비스 개발 아이디어 공모전](https://contest.k-paas.org/)__
-  - 분류: `온라인`, `무료`, `클라우드`
-  - 주최: K-PaaS
-  - 접수: 04. 01(월) ~ 10. 31(목)
-
-<br />
-
-----------------
 
 <br />
 
@@ -440,13 +431,18 @@
 | 프로그라피 | 세상에 필요한 IT서비스를 만드는 모임                         | [공식 홈페이지](http://prography.org/), [facebook](https://www.facebook.com/thePrography/)|
 | CEOS | 신촌 연합 IT 창업 동아리                               | [공식 홈페이지](https://www.ceos.or.kr/) |
 | Central MakeUs Challenge(CMC) | 수익형 앱 런칭 동아리                                  | [공식 홈페이지](https://cmc.makeus.in/), [instagram](https://www.instagram.com/makeus_challenge/) |
-| University MakeUs Challenge(UMC) | 대학교 연합 앱런칭 동아리                                | [공식 홈페이지](https://makeus.in/umc/), [instagram](https://www.instagram.com/uni_makeus_challenge/) |
+| University MakeUs Challenge(UMC) | 대학교 연합 앱런칭 동아리                                | [공식 홈페이지](https://umc.makeus.in/), [instagram](https://www.instagram.com/uni_makeus_challenge/) |
 | XREAL | 세계 최고의 메타버스 학회, XREAL                          | [공식 홈페이지](https://www.xreal.info/), [instagram](https://www.instagram.com/xreal_snu/) |
-| Cloud Club |폭 넓은 클라우드 인프라를 경험할 수 있는 IT 동아리|[공식 홈페이지](https://cloudclub.oopy.io/), [Youtube](https://www.youtube.com/@c1oudc1ub), [Instagram](https://www.instagram.com/c1oudc1ub/)|
+| Cloud Club |폭 넓은 클라우드 인프라를 경험할 수 있는 IT 동아리|[공식 홈페이지](https://www.cloudclub.kr/), [Youtube](https://www.youtube.com/@c1oudc1ub), [Instagram](https://www.instagram.com/c1oudc1ub/)|
 | 피로그래밍 | 비전공자를 위한 웹프로그래밍 동아리 |[공식 홈페이지](https://pirogramming.com/),  [Instagram](https://www.instagram.com/pirogramming_official/)|
-| SIPE | 현직 개발자들이 모여 함께 학습하고 소통하는 IT 커뮤니티 |[공식 홈페이지](https://sipe.team/),  [Instagram](https://www.instagram.com/sipe_team/)|
-| 9oormthon Univ | 구름과 시즌톤이 함께하는 대학생 IT연합 동아리 |[공식 홈페이지](http://bit.ly/goormthon-univ), [Instagram](https://www.instagram.com/9oormthonuniv.official/)|
+| SIPE | 다양한 활동으로 함께 성장하는 현직 개발자들의 커뮤니티 |[공식 홈페이지](https://sipe.team/),  [Instagram](https://www.instagram.com/sipe_team/)|
+| 9oormthonUNIV | 카카오와 구름이 함께하는 대학생 IT 연합 동아리 |[공식 홈페이지](http://bit.ly/goormthon-univ), [Instagram](https://www.instagram.com/9oormthonuniv.official/)|
 | BOAZ | 국내 최초 빅데이터 동아리 |[공식 홈페이지](https://www.bigdataboaz.com/), [Instagram](https://www.instagram.com/boaz_bigdata/)|
+| SUSC | 대학연합개발자동아리 | [공식 홈페이지](https://www.susc.kr/), [Instagram](https://www.instagram.com/susc_kr/), [Youtube](https://www.youtube.com/@SUSCkr) |
+| ADA | 소프트웨어마이스터고 IT연합동아리 | [Instagram](https://www.instagram.com/gbsw_ada/) |
+| R&Dix | AI와 SYSTEM을 위한 개발 학술 동아리 | [공식 홈페이지](https://rndix.co.kr/) |
+| Cursor Korea | 커서 공식 한국 사용자 모임 | [공식 홈페이지](https://www.cursorkorea.org/) |
+
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
@@ -456,12 +452,11 @@
 
 | 이름 | 링크 |
 |------------|-----------|
-| 양재동 코드랩 | [Homepage](https://www.codelabs.kr/), [Youtube](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg) |
+| 양재동 코드랩 | [Youtube](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg) |
 | 모두의 연구소 | [Homepage](https://modulabs.co.kr/) |
 | CCCR 아카데미 | [Homepage](https://www.cccr-edu.or.kr/main/index.jsp) |
 | 인공지능혁신학교 AIFFEL  | [Homepage](https://aiffel.io/) |
-| 엘리스 | [Homepage](https://elice.io/home) |
-| 알고리즘 캠프 | [Homepage](https://algorithmcamp.oopy.io/) |
+| 엘리스 | [Homepage](https://elice.io/) |
 | SW사관학교 정글(카이스트) | [Homepage](https://swjungle.net/) |
 | Apple Developer Academy @ POSTECH |[Homepage](https://developeracademy.postech.ac.kr/)|
 | 삼성 청년 SW 아카데미(SSAFY) | [Homepage](https://www.ssafy.com/) |
@@ -479,6 +474,11 @@
 | 스마일게이트 개발캠프 | [Homepage](https://careers.smilegate.com/student/development-camp) |
 | 코드스쿼드 | [Homepage](https://codesquad.kr/) |
 | 구름톤 트레이닝(9oormthon TRAINING) | [Homepage](https://kdt.goorm.io/) |
+| 청년취업사관학교(SeSAC) | [Homepage](https://sesac.seoul.kr/) |
+| KT AIVLE School | [Homepage](https://aivle.kt.co.kr/home/main/indexMain) |
+| 프로그래머스 데브코스 | [Homepage](https://school.programmers.co.kr/learn/KDT) |
+| 카카오테크 부트캠프 | [Homepage](https://ktb.goorm.io/) |
+| 코드트리(Codetree) | [homepage](https://www.codetree.ai/ko/trail-info?utm_source=github&utm_medium=devevent) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
@@ -503,7 +503,7 @@
 | FinOps Korea | [facebook](https://www.facebook.com/groups/finops.community1) |
 | 스사모(한국 스파크 사용자 모임) | [facebook](https://www.facebook.com/groups/sparkkoreauser/) |
 | React Korea | [facebook](https://www.facebook.com/groups/react.ko/) |
-| Vuejs Korea | [facebook](https://vuejs-kr.github.io/) |
+| Vuejs Korea | [homepage](https://vuejs-kr.github.io/) |
 | Node.js Korea | [facebook](https://www.facebook.com/groups/nodejskr) |
 | NestJS Korea | [facebook](https://www.facebook.com/groups/nestjs-kr) |
 | OSXDev.org | [facebook](https://www.facebook.com/groups/osxdevorg/) |
@@ -545,6 +545,9 @@
 | 걸스인텍 버클업 | [채팅방](https://open.kakao.com/o/gIbidm9d) |
 | AsyncSwift | [discord](https://discord.gg/VeERbm3VKC), [homepage](https://asyncswift.org/) |
 | C++ Korea | [discord](https://discord.gg/87SNegGZue), [facebook](https://fb.com/groups/cppkorea/), [Github](https://github.com/CppKorea) |
+| Datadog 한국 사용자 모임 | [homepage](https://datadogkrug.vercel.app) |
+| GDG Campus Korea | [homepage](https://gdg.community.dev/gdg-campus-korea/), [Instagram](https://www.instagram.com/gdg.campuskorea) |
+| 코드트리(Codetree) 글로벌 알고리즘 커뮤니티 | [Discord](https://discord.gg/XNB4JMJpuk) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
@@ -763,6 +766,50 @@
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://solution-is-here.tistory.com"><img src="https://avatars.githubusercontent.com/u/104314593?v=4?s=100" width="100px;" alt="Yongjun Hong"/><br /><sub><b>Yongjun Hong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=YongGoose" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/morningB"><img src="https://avatars.githubusercontent.com/u/114423035?v=4?s=100" width="100px;" alt="Joowon_Yun"/><br /><sub><b>Joowon_Yun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=morningB" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://blog.guesung.site"><img src="https://avatars.githubusercontent.com/u/62178788?v=4?s=100" width="100px;" alt="Kuesung Park"/><br /><sub><b>Kuesung Park</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=guesung" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://3boku.me"><img src="https://avatars.githubusercontent.com/u/68502584?v=4?s=100" width="100px;" alt="정삼복"/><br /><sub><b>정삼복</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=3boku" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@devjeenie"><img src="https://avatars.githubusercontent.com/u/83256772?v=4?s=100" width="100px;" alt="Ha jin Park"/><br /><sub><b>Ha jin Park</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=dev-Jeenie" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://nageune.github.io"><img src="https://avatars.githubusercontent.com/u/108459576?v=4?s=100" width="100px;" alt="Kyunghyun Kang"/><br /><sub><b>Kyunghyun Kang</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=nageune" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@chhw130"><img src="https://avatars.githubusercontent.com/u/116826162?v=4?s=100" width="100px;" alt="HyunWoo Choi"/><br /><sub><b>HyunWoo Choi</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=chhw130" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Kieun"><img src="https://avatars.githubusercontent.com/u/11862894?v=4?s=100" width="100px;" alt="Ki-Eun Shin"/><br /><sub><b>Ki-Eun Shin</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Kieun" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@jubby/posts"><img src="https://avatars.githubusercontent.com/u/72849620?v=4?s=100" width="100px;" alt="Juok Lee"/><br /><sub><b>Juok Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=juoklee" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/KNHui"><img src="https://avatars.githubusercontent.com/u/37471802?v=4?s=100" width="100px;" alt="김남희"/><br /><sub><b>김남희</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=KNHui" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://ywonchae1.github.io"><img src="https://avatars.githubusercontent.com/u/79977182?v=4?s=100" width="100px;" alt="Wonchae Yang"/><br /><sub><b>Wonchae Yang</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ywonchae1" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@fltk1004"><img src="https://avatars.githubusercontent.com/u/101008357?v=4?s=100" width="100px;" alt="syeony"/><br /><sub><b>syeony</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=syeony" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/hijae"><img src="https://avatars.githubusercontent.com/u/5418545?v=4?s=100" width="100px;" alt="Hijae Song"/><br /><sub><b>Hijae Song</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hijae" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/yujinverse"><img src="https://avatars.githubusercontent.com/u/112642916?v=4?s=100" width="100px;" alt="yujin kim"/><br /><sub><b>yujin kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=yujinverse" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@0x45c/posts"><img src="https://avatars.githubusercontent.com/u/137787915?v=4?s=100" width="100px;" alt="seyeong"/><br /><sub><b>seyeong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JANGSEYEONG" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://nonmajor-be-developer.tistory.com/"><img src="https://avatars.githubusercontent.com/u/128147281?v=4?s=100" width="100px;" alt="yeonhub"/><br /><sub><b>yeonhub</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=yeonhub" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dani1552"><img src="https://avatars.githubusercontent.com/u/150661115?v=4?s=100" width="100px;" alt="Daeun Kim"/><br /><sub><b>Daeun Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=dani1552" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/suhyenim"><img src="https://avatars.githubusercontent.com/u/100345983?v=4?s=100" width="100px;" alt="Suhyen Im"/><br /><sub><b>Suhyen Im</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=suhyenim" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/bandoche"><img src="https://avatars.githubusercontent.com/u/1097495?v=4?s=100" width="100px;" alt="Jung Sang-jun"/><br /><sub><b>Jung Sang-jun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=bandoche" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/lj05117"><img src="https://avatars.githubusercontent.com/u/58285947?v=4?s=100" width="100px;" alt="Jiye Lee"/><br /><sub><b>Jiye Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=lj05117" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/easter423"><img src="https://avatars.githubusercontent.com/u/91017333?v=4?s=100" width="100px;" alt="Gunyoung Ha"/><br /><sub><b>Gunyoung Ha</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=easter423" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tyl1996"><img src="https://avatars.githubusercontent.com/u/89068510?v=4?s=100" width="100px;" alt="Tae Yong Lee"/><br /><sub><b>Tae Yong Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=tyl1996" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/daehyun99"><img src="https://avatars.githubusercontent.com/u/180817502?v=4?s=100" width="100px;" alt="김대현 (Kim DaeHyun)"/><br /><sub><b>김대현 (Kim DaeHyun)</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=daehyun99" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/frontman-git"><img src="https://avatars.githubusercontent.com/u/174184333?v=4?s=100" width="100px;" alt="frontman-git"/><br /><sub><b>frontman-git</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=frontman-git" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/DongWooKim4343"><img src="https://avatars.githubusercontent.com/u/106728608?v=4?s=100" width="100px;" alt="DongWoo Kim"/><br /><sub><b>DongWoo Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=DongWooKim4343" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://zrr.kr/kWrh"><img src="https://avatars.githubusercontent.com/u/76685700?v=4?s=100" width="100px;" alt="Daehyun Kim"/><br /><sub><b>Daehyun Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Daehyun-Bigbread" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@hoyaho"><img src="https://avatars.githubusercontent.com/u/85336456?v=4?s=100" width="100px;" alt="Jeongho"/><br /><sub><b>Jeongho</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hoyahozz" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/itsChrisJang"><img src="https://avatars.githubusercontent.com/u/62946867?v=4?s=100" width="100px;" alt="JUNHWAN(Chris) JANG"/><br /><sub><b>JUNHWAN(Chris) JANG</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=itsChrisJang" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://codetree.ai"><img src="https://avatars.githubusercontent.com/u/103738589?v=4?s=100" width="100px;" alt="Jaebaek(Dave) Lee"/><br /><sub><b>Jaebaek(Dave) Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Jaebaek-Lee" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/clicelee"><img src="https://avatars.githubusercontent.com/u/131771046?v=4?s=100" width="100px;" alt="𝒄𝒍 𝒊 𝒄 𝒆"/><br /><sub><b>𝒄𝒍 𝒊 𝒄 𝒆</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=clicelee" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Ubinquitous"><img src="https://avatars.githubusercontent.com/u/102154880?v=4?s=100" width="100px;" alt="우빈"/><br /><sub><b>우빈</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Ubinquitous" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/8471919"><img src="https://avatars.githubusercontent.com/u/27190776?v=4?s=100" width="100px;" alt="Michael"/><br /><sub><b>Michael</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=8471919" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kimdonggu42"><img src="https://avatars.githubusercontent.com/u/115632555?v=4?s=100" width="100px;" alt="김동구 Donggu Kim"/><br /><sub><b>김동구 Donggu Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=kimdonggu42" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tteokbokki-master"><img src="https://avatars.githubusercontent.com/u/129606040?v=4?s=100" width="100px;" alt="LEE YONGJIN"/><br /><sub><b>LEE YONGJIN</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=tteokbokki-master" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/cowboysj"><img src="https://avatars.githubusercontent.com/u/108571492?v=4?s=100" width="100px;" alt="Sujin Kim"/><br /><sub><b>Sujin Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=cowboysj" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JinleeJeong"><img src="https://avatars.githubusercontent.com/u/45163013?v=4?s=100" width="100px;" alt="Jinlee"/><br /><sub><b>Jinlee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JinleeJeong" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
